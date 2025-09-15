@@ -11,10 +11,15 @@ You can also calculate **Compound Interest** using the following inputs:
 
 The formula is:
 
-\[
-\text{Compound Interest} = p \times \left(1 + \frac{r}{n}\right)^{n \times t} - p
-\]
+\( A = P \times \left(1 + \frac{r}{n}\right)^{nt} \)
 
+where:
+
+- \(A\) is the amount after interest
+- \(P\) is the principal
+- \(r\) is the annual interest rate (decimal)
+- \(n\) is the number of times interest is compounded per year
+- \(t\) is the time period in years
 ---
 
 ## Example Usage: Compound Interest Calculator
