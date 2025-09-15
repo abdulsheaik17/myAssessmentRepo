@@ -1,5 +1,3 @@
-## Contribution Guidelines
-
 Please consider the following factors while contributing:
 
 - **Code Style:**  
