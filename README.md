@@ -1,4 +1,4 @@
-# Simple Interest Calculator
+# Simple Interest Calculator Updated from bug_fix_typo branch
 
 This program calculates **Simple Interest** given the principal amount, annual rate of interest, and time period in years.
 
