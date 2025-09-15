@@ -1,19 +1,31 @@
-Please consider the following factors while contributing:
+# Simple Interest Calculator
 
-- **Code Style:**  
-  Maintain a consistent code style for readability.
+This program calculates **Simple Interest** given the principal amount, annual rate of interest, and time period in years.
 
-- **Documentation:**  
-  Ensure your code is well-documented for effective collaboration.
+---
 
-- **Testing:**  
-  Thoroughly test your changes before submitting a pull request.
+## Input
 
-- **Issue Tracker:**  
-  Check the Issue Tracker for tasks before starting new work.
+- `p`: Principal amount (e.g., 1000)
+- `t`: Time period in years (e.g., 3)
+- `r`: Annual rate of interest (e.g., 0.05 for 5%)
 
-- **Code Review:**  
-  All contributions undergo a code review process before being merged.
+---
 
-- **Licensing:**  
-  By contributing, you agree that your contributions will be licensed under the project’s license.
+## Output
+
+- Simple Interest calculated using the formula:
+
+  \[
+  \text{Simple Interest} = p \times t \times r
+  \]
+
+---
+
+## Example Usage: Simple Interest Calculator (Bash)
+
+Run the script in the terminal:
+
+```bash
+./simple-interest.sh
+
